@@ -4,11 +4,22 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/besparza90/module-11.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/besparza90/module-11/issues"
+  },
+  "homepage": "https://github.com/besparza90/module-11#readme"
 }
